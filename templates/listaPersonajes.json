@@ -1,0 +1,211 @@
+[
+
+  {
+  
+    "id": 0,
+
+    "nombre": "Juan Manuel",
+
+    "dni": "12345678C",
+
+    "altura": 1.67,
+
+    "peso": 65.1,
+
+    "imagen": "https://i.pinimg.com/originals/cd/e0/3e/cde03ed21a4130b1ffafb5c51ea37dc4.png",
+
+    "icono": "https://www.kindpng.com/picc/m/777-7771057_static-media-fighter-logo-5e176cb3-dnd-5e-fighter.png",
+
+    "descripcion": "Personaje humano de nivel 10, luchador y con cierta destreza para matar.",
+
+    "tipo": "Humano",
+
+    "armas": 10,
+
+    "inteligencia": 7
+
+  },
+  
+     {
+  
+      "id": 1,
+  
+      "nombre": "Alberto Garcia",
+  
+      "dni": "87654321C",
+  
+      "altura": 1.72,
+  
+      "peso": 85.1,
+  
+      "imagen": "https://i.pinimg.com/736x/81/86/76/818676c3be9ebd2e64695bdaecc3d2a3.jpg",
+  
+      "icono": "https://i.pinimg.com/originals/29/b6/98/29b6981d9ccafe7a34c81965d9283d7f.jpg",
+  
+      "descripcion": "Personaje humano de nivel 10, sacerdote y con cierta capacidad de inteligencia para matar",
+  
+      "tipo": "Humano",
+  
+      "armas": 8,
+  
+      "inteligencia": 9
+  
+    },
+
+    {
+  
+      "id": 2,
+  
+      "nombre": "Pedro Rodriguez",
+  
+      "dni": "98654123C",
+  
+      "altura": 1.82,
+  
+      "peso": 75.3,
+  
+      "imagen": "https://i.pinimg.com/originals/78/a9/2c/78a92cbd961d553ee2199f7e2ce6e2d4.jpg",
+  
+      "icono": "https://www.kindpng.com/picc/m/98-989501_hawkeye-bow-and-arrow-bow-and-arrow-icon.png",
+  
+      "descripcion": "Personaje elfo de nivel 10, rápido y con gran punteria para matar a distancia",
+  
+      "tipo": "Elfo",
+  
+      "distancia": 10,
+  
+      "velocidad": 9
+  
+    },
+
+    {
+  
+      "id": 3,
+  
+      "nombre": "Cristobal Navarro",
+  
+      "dni": "35976241C",
+  
+      "altura": 1.92,
+  
+      "peso": 80.6,
+  
+      "imagen": "https://i.pinimg.com/550x/f6/36/49/f6364948ddc24c3bafcaea4323be151a.jpg",
+  
+      "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpJppXNYjMpMv0LdiSMwHsBOk4FNjT9FtJ8XnFzVNGSZpzXTdy3jm3MLkxCa96On5I3Nc&usqp=CAU",
+  
+      "descripcion": "Personaje elfo de nivel 10, druida y con cierta facilidad para sanar a distancia",
+  
+      "tipo": "Elfo",
+  
+      "distancia": 9,
+  
+      "velocidad": 10
+  
+    },
+
+    {
+  
+      "id": 4,
+  
+      "nombre": "Alfonso Garcia",
+  
+      "dni": "78123695C",
+  
+      "altura": 1.92,
+  
+      "peso": 98.1,
+  
+      "imagen": "https://i.pinimg.com/736x/d1/16/14/d116144bc2db077b4bb8f099871d058f--fantasy-images-fantasy-rpg.jpg",
+  
+      "icono": "https://i.pinimg.com/564x/f5/9a/ee/f59aee806df75cdce2fd591d96423270--players-handbook-pathfinder-rpg.jpg",
+  
+      "descripcion": "Personaje orco de nivel 10, feroz y con gran fuerza y que infunde miedo",
+  
+      "tipo": "Orco",
+  
+      "fuerza": 10,
+  
+      "miedo": 9
+  
+    },
+
+    {
+  
+      "id": 5,
+  
+      "nombre": "Enrique Pascal",
+  
+      "dni": "55699874C",
+  
+      "altura": 1.99,
+  
+      "peso": 95.1,
+  
+      "imagen": "https://i.pinimg.com/originals/33/31/84/333184b50285d1657d1afc3ea106620d.jpg",
+  
+      "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaDkqPOJH_1ATYycmwO2wZmGALaPGUiEy6TA&usqp=CAU",
+  
+      "descripcion": "Personaje orco de nivel 10, silencioso pero gran fuerza, eso será una combinación letal",
+  
+      "tipo": "Orco",
+  
+      "fuerza": 10,
+  
+      "miedo": 8
+  
+    },
+
+    {
+  
+      "id": 6,
+  
+      "nombre": "Paco Bolson",
+  
+      "dni": "32255668C",
+  
+      "altura": 1.42,
+  
+      "peso": 55.1,
+  
+      "imagen": "https://i.pinimg.com/550x/b8/29/e8/b829e83221ef0251ce99d4c3e4c177f0.jpg",
+  
+      "icono": "https://icon-library.com/images/dwarf-icon/dwarf-icon-26.jpg",
+  
+      "descripcion": "Personaje enano de nivel 10, con gran resistencia y con cierta capacidad de inventar cosas",
+  
+      "tipo": "Enano",
+  
+      "dureza": 10,
+  
+      "ingenieria": 9
+  
+    },
+
+    {
+  
+      "id": 7,
+  
+      "nombre": "Samuel Gonzalez",
+  
+      "dni": "74965230C",
+  
+      "altura": 1.50,
+  
+      "peso": 58.1,
+  
+      "imagen": "http://2.bp.blogspot.com/-yuWSQr7sVvo/UtJ-DO6QZPI/AAAAAAAAAgc/WtXWP8-JjOE/s1600/Mauglurien__the_Black_Dragon_by_DaveAllsop.jpg",
+  
+      "icono": "https://icon-library.com/images/dwarf-icon/dwarf-icon-8.jpg",
+  
+      "descripcion": "Personaje enano de nivel 10, muy inteligente capaz de crear maquinas de guerra",
+  
+      "tipo": "Enano",
+  
+      "dureza": 9,
+  
+      "ingenieria": 10
+  
+    }
+  
+  ]
