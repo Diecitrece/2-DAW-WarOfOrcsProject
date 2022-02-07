@@ -1,0 +1,2 @@
+# 2-DAW-WarOfOrcsProject
+Este es el primer proyecto que realicé junto a @hectorplinio juntando JavaScript y PHP. Al ser el primero, los archivos están bastante desordenados. El proyecto consiste en una página en la que puedes visualizar una serie de personajes y equipamientos de fantasía, entre otros. | This is my first project alongside @hectorplinio using JavaScript and PHP together. Because it is the first project, files are pretty untidy. The project is a web app where u can see some fantasy equipment and characters.
